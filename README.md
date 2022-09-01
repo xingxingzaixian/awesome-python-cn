@@ -887,6 +887,7 @@ Web socket 相关库。
 *   [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)：tkinter，Qt，WxPython 和 Remi 的封装。
 *   [pywebview](https://github.com/r0x0r/pywebview/)：围绕网页视图组件的轻量级跨平台的原生包装。
 *   [DearPyGui](https://github.com/RaylockLLC/DearPyGui/)：一个简单的可使用 GPU 加速的 Python GUI 框架。
+*   [Flet](https://github.com/flet-dev/flet)：用 Python 构建 Flutter 应用程序的最快方法，实现跨平台开发。
 
 ### 游戏开发
 
